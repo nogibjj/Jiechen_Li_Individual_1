@@ -1,6 +1,6 @@
 [![CI](https://github.com/nogibjj/python-ruff-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/python-ruff-template/actions/workflows/cicd.yml)
 
-## Jiechen_Li_Individual_1_Pandas
+## Jiechen_Li_Individual_1_Pandas_new
 
 ## Purpose 
 🤔 To generate the descriptive statistics on datasets by using Pandas in both ``jupyther notebook (.ipynb)`` and ``lib.py`` files to read `` spotify_2023_1.csv ``.       
